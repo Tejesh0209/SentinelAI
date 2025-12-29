@@ -659,9 +659,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- GitHub: @yourusername
-- Email: your.email@example.com
-- Twitter: @yourhandle
+- GitHub: @tejesh0209
+- Email: tejesh.boppana@outlook.com
+
 
 ## Roadmap
 
