@@ -1,0 +1,24 @@
+# Core Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+websockets==12.0
+
+# AI/ML Services
+openai==1.10.0
+
+# Vector Database & RAG
+faiss-cpu==1.13.2
+numpy==1.26.3
+
+# Data Processing
+pydantic==2.5.3
+pydantic-settings==2.12.0
+python-dotenv==1.0.0
+aiohttp==3.9.1
+aiofiles==23.2.1
+
+# Utilities
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+httpx==0.26.0
